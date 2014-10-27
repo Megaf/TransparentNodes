@@ -1,7 +1,7 @@
 TransparentNodes = {}
 
 minetest.register_craft({
-        output = 'TransparentNodes:TransparentNodes',
+        output = 'TransparentNodes:TransparentBlue',
         recipe = {
                 {'default:glass', 'moreores:mithril_block'},
                 {'moreores:mithril_block', 'default:glass'},
