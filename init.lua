@@ -16,3 +16,5 @@ minetest.register_node("transparent_nodes:transparent_blue", {
         legacy_mineral = true,
         sounds = default.node_sound_stone_defaults(),
 })
+
+print('[transparent_nodes] loaded.')
